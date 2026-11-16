@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MgsGH
-- 👀 I’m interested in Java Script and birds.
-- 🌱 I’m currently learning more JQuery, with Facebook APIs and D3.js lined up to follow.
+- 👀 I’m interested in JavaScript and birds.
 - 💞️ I’m looking to collaborate on building the bird observatories platform, using Falsterbo as the guinea pig.
 - 📫 How to reach me ...
 
